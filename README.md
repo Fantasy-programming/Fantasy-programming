@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gamernewone
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Software engeneering & Advanced mat
+- 🌱 I’m currently learning Software engeneering & Advanced Math
 - 💞️ I’m looking to collaborate on Coding challenge
 - 📫 How to reach me: rickrichard80@gmail.com
 
