@@ -19,10 +19,6 @@
 
 ## My Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Fantasy-programming alt=FantasyProgramming /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Fantasy-programming&show_icons=true&include_all_commits=true)](https://github.com/FantasyProgramming/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy-programming&layout=compact)](https://github.com/FantasyProgramming/github-readme-stats)
-
 <!---
 gamernewone/gamernewone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
