@@ -1,5 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Fantasy-programming/Fantasy-programming/master/Banner.png "Header")](https://google.com/)
 
+&emsp;
 ## Hi, fellow sapiens <img src="https://raw.githubusercontent.com/Fantasy-programming/Fantasy-programming/master/wave.gif" width="30px" height="30px" />
 
 
@@ -17,6 +18,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+&emsp;
 ## My Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Fantasy-programming alt=FantasyProgramming /> </p>
 <!---
