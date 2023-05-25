@@ -29,9 +29,15 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 
+
 &emsp;
 ## My Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Fantasy-programming alt=FantasyProgramming /> </p>
+![](https://komarev.com/ghpvc/?username=Fantasy-programming)
+![](https://wakapi.fantasyprogramming.tech/api/badge/Fantasy/Fantasy/interval:30_days?label=last_work)
+
+
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Fantasy&api_domain=wakapi.fantasyprogramming.tech&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!---
 gamernewone/gamernewone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
