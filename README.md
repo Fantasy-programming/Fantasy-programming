@@ -1,11 +1,61 @@
-## Hi, fellow sapiens <img src="https://raw.githubusercontent.com/Fantasy-programming/Fantasy-programming/master/wave.gif" width="30px" height="30px" />
+<!-- Rxyhn's GitHub Profile -->
+<div align="justify">
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello World
+      <br>
+        I'm Rich, an engineer who enjoys learning and making stuff
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Go+out+and+touch+some+grass+nerd.">
+      <br>
+      <b>
+        ~ Sic Parvis Magna. ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>  
+    You can reach me at [<a href="freedominwork@fullmetal.anonaddy.com">e-mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=fantasy-programming&label=Profile+Views&color=grey" alt="profile views" /> 
+  </a>
+  </samp>
+</p>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-freedominwork@fullmetal.anonaddy.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:freedominwork@fullmetal.anonaddy.com)](mailto:freedominwork@fullmetal.anonaddy.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Ridy_Rich-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridyngobo/)](https://www.linkedin.com/in/ridyngobo/) [![Github Badge](https://img.shields.io/badge/-FantasyProgramming-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Fantasy-programming/)](https://www.github.com/Fantasy-programming/) [![Twitter Badge](https://img.shields.io/badge/-@Ridyrich-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ridyrich)](https://twitter.com/ridyrich) ![](https://komarev.com/ghpvc/?username=Fantasy-programming) <p align='left'>I'm Rich, an engineer who enjoys creating beautiful and efficient programs, and also happens to love chocolate. My projects range from web development to data analysis to anything really, as i'm constantly exploring new technologies to improve my skills. Let's collaborate (i love teamwork 😻)  and create something cool and pleasing together!</p>
 
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fantasy-programming&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasy-programming&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
 
-<!---
-gamernewone/gamernewone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</details>
+</div>
